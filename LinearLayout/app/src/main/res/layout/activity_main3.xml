@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    >
+
+    <TextView
+        android:text="Hello TableLayout"
+        android:layout_height="25dp"
+        android:layout_width="fill_parent"
+        android:textSize="15sp"
+        android:background="#9D9D9D"
+        android:textColor="#fff"
+        android:layout_padding="5dp"/>
+
+    <TableLayout
+        android:id="@+id/table1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="0"
+        android:shrinkColumns="1"
+        android:padding="3dip"
+        android:textColor="#9D9D9D">
+        <TableRow>
+            <TextView android:text="   Open..."
+                android:textColor="#9D9D9D"/>
+            <TextView android:text="Ctrl-O"
+                android:textColor="#9D9D9D"
+                android:gravity="right"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="   Save..."
+                android:textColor="#9D9D9D"/>
+            <TextView android:text="Ctrl-S"
+                android:textColor="#9D9D9D"
+                android:gravity="right"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="   Save As..."
+                android:textColor="#9D9D9D"/>
+            <TextView android:text="Ctrl-Shift-s"
+                android:textColor="#9D9D9D"
+                android:gravity="right"/>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <TextView
+        android:layout_height="5dp"
+        android:layout_width="fill_parent"
+        android:background="#9D9D9D"/>
+    <TableLayout
+        android:id="@+id/table2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:stretchColumns="0">
+
+        <TableRow>
+            <TextView android:text="X  Import..."
+                android:textColor="#9D9D9D"
+                />
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="X  Export..."
+                android:textColor="#9D9D9D"
+                />
+            <TextView
+                android:text="Ctrl-E"
+                android:textColor="#9D9D9D"
+                android:gravity="right"
+                />
+        </TableRow>
+
+    </TableLayout>
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="5dp"
+        android:background="#9D9D9D"/>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="0"
+        android:padding="3dip">
+
+        <TableRow>
+            <TextView
+                android:text="    Quit"
+                android:textColor="#9D9D9D"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
