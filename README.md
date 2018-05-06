@@ -14,3 +14,10 @@
 | [LinearLayout](https://github.com/dream2018seek/androidtest/tree/master/LinearLayout) |  |  
 | UI | [SimpleAdapter](https://github.com/dream2018seek/androidtest/tree/master/SimpleAdapter) |  
 |  |  [AlertDialog](https://github.com/dream2018seek/androidtest/tree/master/AlertDialog) |  
+
+
+| Name | Academy | score |  
+| - | :-: | -: |  
+| Harry Potter | Gryffindor| 90 |  
+| Hermione Granger | Gryffindor | 100 |  
+| Draco Malfoy | Slytherin | 90 |  
