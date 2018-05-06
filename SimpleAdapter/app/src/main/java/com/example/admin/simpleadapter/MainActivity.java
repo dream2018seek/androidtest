@@ -1,8 +1,13 @@
 package com.example.admin.simpleadapter;
 
 import android.app.Activity;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.Drawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
@@ -20,7 +25,12 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import android.widget.Toast;
+
+
+
 public class MainActivity extends Activity {
+    View v=null;
+
     private String[] names = new String[]{"tiger", "cat", "dog", "elephant","lion","monkey"};
 
     private int[] imageIds = new int[]
@@ -43,33 +53,26 @@ public class MainActivity extends Activity {
             listItems.add(listItem);
         }
 
-        //
         SimpleAdapter simpleAdapter = new SimpleAdapter(this, listItems,
                 R.layout.simple_item,
                 new String[]{"personName", "header"},
                 new int[]{R.id.name, R.id.header});
         ListView list = (ListView) findViewById(R.id.mylist);
         list.setAdapter(simpleAdapter);
+        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Bitmap p = BitmapFactory.decodeResource(getResources(), R.drawable.cat);
+                Drawable d = new BitmapDrawable(p);
+                int c = (int) R.color.colorAccent;
+                if (v != null)
+                    v.setBackgroundColor(1);
+                view.setBackgroundColor(c);
+                v = view;
+                Toast toast = Toast.makeText(MainActivity.this, names[position], Toast.LENGTH_SHORT);
+                toast.show();
+            }
 
-
-
-
-
-
-
-
-
-
-
-
+        });
     }
-
-
-
-
-
-
 }
-
-
-

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <preferenceCategory android:title="个人信息设置组">
+        <EditTextPreference
+            android:key="name"
+            android:title="填写用户名"
+            android:summary="填写您用户名"
+            android:dialogTitle="您所使用的用户名为："/>
+    </preferenceCategory>
+</PreferenceScreen>
