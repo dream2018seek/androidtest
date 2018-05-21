@@ -9,7 +9,8 @@
 | LinearLayout | [entry](https://github.com/dream2018seek/androidtest/tree/master/LinearLayout) |  
 | UI | [SimpleAdapter](https://github.com/dream2018seek/androidtest/tree/master/SimpleAdapter) |  
 |  |  [AlertDialog](https://github.com/dream2018seek/androidtest/tree/master/AlertDialog) |  
-|  |  [xml](https://github.com/dream2018seek/androidtest/tree/master/xml) |  
-| preferenceActivity | [entry](https://github.com/dream2018seek/androidtest/tree/master/PreferenceActivity)  |  
+|  |  [MenuTest_xml](https://github.com/dream2018seek/androidtest/tree/master/MenuTest_xml) |  
+|  |  [ActionMode](https://github.com/dream2018seek/androidtest/tree/master/ActionMode) | 
+| preferenceActivity | [entry](https://github.com/dream2018seek/androidtest/tree/master/Setting)  |  
 | Intent | [simpleintent ](https://github.com/dream2018seek/androidtest/tree/master/Intentone) |    
-
+| Intent | [mybrowser ](https://github.com/dream2018seek/androidtest/tree/master/Intentwebview) | 
