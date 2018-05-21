@@ -13,4 +13,4 @@
 |  |  [ActionMode](https://github.com/dream2018seek/androidtest/tree/master/ActionMode) | 
 | preferenceActivity | [entry](https://github.com/dream2018seek/androidtest/tree/master/Setting)  |  
 | Intent | [simpleintent ](https://github.com/dream2018seek/androidtest/tree/master/Intentone) |    
-| Intent | [mybrowser ](https://github.com/dream2018seek/androidtest/tree/master/Intentwebview) | 
+|  | [mybrowser ](https://github.com/dream2018seek/androidtest/tree/master/Intentwebview) | 
