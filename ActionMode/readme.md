@@ -1,3 +1,3 @@
 
-![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/actionmode11.png)  
-![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/actionmode12.png)  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/actionmode1.png)  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/actionmode2.jpg)  
