@@ -1,4 +1,18 @@
-  ##  遇到了点问题  
-本来完成的差不多了，可以改变字体大小和字体颜色了，  
-但是在后来中，不知什么原因把某些文件的关联删了，导致R文件缺失，  
-在尝试了N中方法后，放弃
+
+** 修改字体大小  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml1.jpg)
+* 小   
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml12.jpg)
+* 中   
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml2.jpg)
+* 大  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml3.jpg)
+*  ![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml4.jpg)
+** 点击普通菜单  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml45.jpg)  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml5.jpg)
+** 改变字体颜色  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml56.jpg)  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml6.jpg)  
+![image](https://github.com/dream2018seek/androidtest/blob/master/pictures/xml7.jpg)
+                   
