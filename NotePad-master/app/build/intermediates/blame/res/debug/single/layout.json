@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "H:\\androidtest\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notes_list.xml",
+        "source": "H:\\androidtest\\NotePad-master\\app\\src\\main\\res\\layout\\activity_notes_list.xml"
+    },
+    {
+        "merged": "H:\\androidtest\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "H:\\androidtest\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notes_list.xml",
+        "source": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\src\\main\\res\\layout\\activity_notes_list.xml"
+    },
+    {
+        "merged": "H:\\androidtest\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "H:\\androidtest\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "H:\\androidtest\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "H:\\androidtest\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "C:\\Users\\49014\\Desktop\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    }
+]
