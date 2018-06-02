@@ -14,3 +14,4 @@
 | preferenceActivity | [entry](https://github.com/dream2018seek/androidtest/tree/master/Setting)  |  
 | Intent | [simpleintent ](https://github.com/dream2018seek/androidtest/tree/master/Intentone) |    
 |  | [mybrowser ](https://github.com/dream2018seek/androidtest/tree/master/Intentwebview) | 
+| NotePad | [NotePad-master](https://github.com/dream2018seek/androidtest/tree/master/NotePad-master) | 
